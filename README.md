@@ -1,6 +1,6 @@
 # Traveling
-> Project of Software Engineering 1
-> Under Supervision Dr.Elham Mahmoudzadeh
+> Project of Software Engineering 1 \new
+> Under Supervision of  Dr.Elham Mahmoudzadeh
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
